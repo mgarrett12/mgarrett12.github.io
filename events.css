@@ -1,0 +1,59 @@
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+}
+
+header {
+  padding: 5px;
+  text-align: center;
+  display: block;
+  width: 790px;
+  font-size: 24px;
+}
+img {
+  width: 100%;
+}
+nav {
+  line-height:100%;
+  background-color: blue;
+  width:125px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+a {
+    color: white ;
+}
+
+section {
+  width: 516px;
+  display: inline-block;
+}
+
+p {
+  width: 516px;
+  display: inline-block;
+  vertical-align: top;
+  background-color: yellow;
+  font-size: 18px;
+}
+
+h2 {
+  font-size: 48px;
+}
+
+footer {
+  width: 790px;
+  background-color: gray;
+  text-align: center;
+  padding:5px;
+  display: block;
+  font-style: italic;
+}

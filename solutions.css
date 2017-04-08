@@ -1,0 +1,83 @@
+html {
+  height: 100%;
+}
+
+
+body {
+  width: 800px;
+  height: 100%;
+  background-color: teal;
+}
+
+header {
+  background-color: #405CBA;
+  color: white;
+  padding: 5px;
+  font-size: 40px;
+  display: block;
+  text-align: center;
+}
+
+nav {
+  float: left;
+  background-color: grey;
+  width: 800px;
+}
+
+nav ul {
+  padding-left: 250px;
+  float: left;
+  border-bottom: ;
+  list-style-type: none;
+  text-align: left;
+}
+
+nav li {
+  display: inline;
+}
+
+nav li a {
+  height: 25px;
+  padding: 12px 18px 8px 18px;
+  vertical-align: middle;
+  text-align: center;
+}
+
+a {
+  color: ;
+}
+
+section {
+  width: 73%;
+  display: inline-block;
+  float: left;
+
+}
+
+.photo_house {
+  margin-top: 50px;
+}
+
+.kip{
+  padding-left: 250px;
+}
+aside {
+  width: 17%;
+  display: inline-block;
+  background-color:;
+  padding: 40px;
+  min-height: 100%;
+}
+
+aside ul {
+  list-style-type: none;
+}
+
+footer {
+  width: 790px;
+  background-color:;
+  color:;
+  clear: both;
+  padding-left: 250px;
+  display: block;
+}
